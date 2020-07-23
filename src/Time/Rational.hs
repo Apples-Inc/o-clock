@@ -46,6 +46,8 @@ import GHC.TypeNats (Div, Mod, type (<=?), KnownNat, Nat, natVal)
 import qualified GHC.TypeNats
 import Unsafe.Coerce (unsafeCoerce)
 
+-- This is a useless comment
+
 -- | Data structure represents the rational number.
 -- Rational number can be represented as a pair of
 -- natural numbers @n@ and @m@ where @m@ is nor equal
